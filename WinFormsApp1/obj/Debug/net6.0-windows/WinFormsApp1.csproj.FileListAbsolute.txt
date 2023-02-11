@@ -1,0 +1,17 @@
+D:\VS项目\Learn\WinForm\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\VS项目\Learn\WinForm\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\VS项目\Learn\WinForm\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\VS项目\Learn\WinForm\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\VS项目\Learn\WinForm\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\VS项目\Learn\WinForm\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
